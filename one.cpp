@@ -1,6 +1,10 @@
 #include <QApplication>
 #include <QPushButton>
- 
+#include <QPushButton>
+#include <QPushButton>
+#include <QPushButton>
+до поинтера
+  
 int main(int argc, char *argv[ ]) 
 {
 QApplication app(argc, argv);
