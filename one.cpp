@@ -2,6 +2,8 @@
 #include <QPushButton>
 #include <QPushButton>
 #include <QPushButton>
+#include <QPushButton>
+после поинтера
   
 int main(int argc, char *argv[ ]) 
 {
